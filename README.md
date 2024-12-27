@@ -1,3 +1,5 @@
+<h3>🚧 I highly advise against using my code. It's absolute dogsh**t, I wrote it back in 2021 when I was just starting 🥲 🚧</h3>
+
 # Arduino Advanced Datalogger
 
 This project is an advanced datalogger that logs temperature, humidity, and air pressure. It uses an Adafruit SHT31 sensor for temperature and humidity, and a BMP180 for air pressure.
